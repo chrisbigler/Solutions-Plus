@@ -142,52 +142,9 @@
         "enable_transparent_header_collection": false,
         "collection_color_scheme": "default"
       }
-    },
-    "1781799539ca02421f": {
-      "type": "_blocks",
-      "blocks": {
-        "zapiet_pickup_delivery_delivery_validator_xBVfBq": {
-          "type": "shopify://apps/zapiet-pickup-delivery/blocks/delivery-validator/5599aff0-8af1-473a-a372-ecd72a32b4d5",
-          "settings": {
-            "show_on_page_load": true,
-            "sticky": true
-          }
-        }
-      },
-      "block_order": [
-        "zapiet_pickup_delivery_delivery_validator_xBVfBq"
-      ],
-      "settings": {
-        "content_direction": "column",
-        "vertical_on_mobile": true,
-        "horizontal_alignment": "flex-start",
-        "vertical_alignment": "center",
-        "align_baseline": false,
-        "horizontal_alignment_flex_direction_column": "flex-start",
-        "vertical_alignment_flex_direction_column": "center",
-        "gap": 12,
-        "section_width": "page-width",
-        "section_height": "",
-        "section_height_custom": 50,
-        "color_scheme": "",
-        "background_media": "none",
-        "video_position": "cover",
-        "background_image_position": "cover",
-        "border": "none",
-        "border_width": 1,
-        "border_opacity": 100,
-        "border_radius": 0,
-        "toggle_overlay": false,
-        "overlay_color": "#00000026",
-        "overlay_style": "solid",
-        "gradient_direction": "to top",
-        "padding-block-start": 0,
-        "padding-block-end": 0
-      }
     }
   },
   "order": [
-    "header_section",
-    "1781799539ca02421f"
+    "header_section"
   ]
 }
