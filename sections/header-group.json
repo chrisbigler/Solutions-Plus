@@ -143,10 +143,10 @@
         "collection_color_scheme": "default"
       }
     },
-    "1781799407f92f0615": {
+    "1781799539ca02421f": {
       "type": "_blocks",
       "blocks": {
-        "zapiet_pickup_delivery_delivery_validator_7Q4Jjb": {
+        "zapiet_pickup_delivery_delivery_validator_xBVfBq": {
           "type": "shopify://apps/zapiet-pickup-delivery/blocks/delivery-validator/5599aff0-8af1-473a-a372-ecd72a32b4d5",
           "settings": {
             "show_on_page_load": true,
@@ -155,7 +155,7 @@
         }
       },
       "block_order": [
-        "zapiet_pickup_delivery_delivery_validator_7Q4Jjb"
+        "zapiet_pickup_delivery_delivery_validator_xBVfBq"
       ],
       "settings": {
         "content_direction": "column",
@@ -188,6 +188,6 @@
   },
   "order": [
     "header_section",
-    "1781799407f92f0615"
+    "1781799539ca02421f"
   ]
 }
