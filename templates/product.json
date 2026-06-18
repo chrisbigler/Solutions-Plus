@@ -20,6 +20,10 @@
     "main": {
       "type": "product-information",
       "blocks": {
+        "zapiet_pickup_delivery_product_delivery_option_info_tN8X7J": {
+          "type": "shopify://apps/zapiet-pickup-delivery/blocks/product-delivery-option-info/5599aff0-8af1-473a-a372-ecd72a32b4d5",
+          "settings": {}
+        },
         "media-gallery": {
           "type": "_product-media-gallery",
           "static": true,
@@ -612,6 +616,9 @@
           ]
         }
       },
+      "block_order": [
+        "zapiet_pickup_delivery_product_delivery_option_info_tN8X7J"
+      ],
       "settings": {
         "product": "{{ closest.product }}",
         "content_width": "content-center-aligned",
