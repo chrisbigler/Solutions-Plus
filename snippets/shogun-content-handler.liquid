@@ -5,6 +5,7 @@ This file can be re-written at any time.
 
 {% assign template_suffix = template.suffix %}
 
+
 {% if article %}
   {% assign content = article %}
 {% elsif page %}
@@ -66,3 +67,4 @@ This file can be re-written at any time.
         {{ content.metafields.shogun.json_template_optimizer.value['body'] }}
      {% endcapture %}
 {% endif %}
+
